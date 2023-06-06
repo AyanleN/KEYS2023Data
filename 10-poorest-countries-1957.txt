@@ -1,0 +1,10 @@
+"Congo, Dem. Rep."	1957	15577932	Africa	40.652	905.8602303
+"Hong Kong, China"	1957	2736300	Asia	64.75	3629.076457
+"Korea, Dem. Rep."	1957	9411381	Asia	54.081	1571.134655
+Bosnia and Herzegovina	1957	3076000	Europe	58.45	1353.989176
+Central African Republic	1957	1392284	Africa	37.464	1190.844328
+Trinidad and Tobago	1957	764900	Americas	61.8	4100.3934
+Sierra Leone	1957	2295678	Africa	31.57	1004.484437
+"Yemen, Rep."	1957	5498090	Asia	33.97	804.8304547
+Burkina Faso	1957	4713416	Africa	34.906	617.1834648
+Equatorial Guinea	1957	232922	Africa	35.983	426.0964081
